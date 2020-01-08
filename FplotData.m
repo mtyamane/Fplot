@@ -44,7 +44,7 @@ plotData.siteLabelSize = 8;
 % Figure dimensions
 %--------------------------------------------------------------------------
 numIslands = length(plotData.islands);
-height = 5*numIslands; % height determined by num of plots on the figure
+height = 10*numIslands; % height determined by num of plots on the figure
 
 % dimensions for plot: [ horizPos vertPos width height ] in cm
 % Typically journals like figs that are 1 column wide (usually ~9 cm), or
