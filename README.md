@@ -29,10 +29,10 @@ Species and Types used in this implementation are defined in **runme_Fplot.m**
 
 **Note:** Example results are in the **data** folder and example plots are in the **figures** folder
 
-Example plot of Blue Rockfish results at all sites studied (**Type = 'Full'**):
+Example plot of Kelp Bass results at all sites studied (**Type = 'Full'**):
 
-![Plot of Blue Rockfish results at all sites](/figures/SMYS_Full_F_results_plot.png)
+![Plot of Kelp Bass results at all sites](/figures/PCLA_Full_F_results_plot.png)
 
-Example plot of Blue Rockfish results at one site (**Type = 'SCI'**):
+Example plot of Kelp Bass results at one site (**Type = 'SCI'**):
 
-![Plot of Blue Rockfish of results from Santa Cruz Island](/figures/SMYS_SCI_F_results_plot.png)
+![Plot of Kelp Bass results from Santa Cruz Island](/figures/PCLA_SCI_F_results_plot.png)
